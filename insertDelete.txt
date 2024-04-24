@@ -1,0 +1,42 @@
+Insertion
+INORDER (NUM=20, height=4): root node has sin:7
+
+ height:0 sin:0 employee number:0 salary:50000 age:30
+ height:1 sin:1 employee number:1 salary:50000 age:30
+ height:0 sin:2 employee number:2 salary:50000 age:30
+ height:2 sin:3 employee number:3 salary:50000 age:30
+ height:0 sin:4 employee number:4 salary:50000 age:30
+ height:1 sin:5 employee number:5 salary:50000 age:30
+ height:0 sin:6 employee number:6 salary:50000 age:30
+ height:4 sin:7 employee number:7 salary:50000 age:30
+ height:0 sin:8 employee number:8 salary:50000 age:30
+ height:1 sin:9 employee number:9 salary:50000 age:30
+ height:0 sin:10 employee number:10 salary:50000 age:30
+ height:2 sin:11 employee number:11 salary:50000 age:30
+ height:0 sin:12 employee number:12 salary:50000 age:30
+ height:1 sin:13 employee number:13 salary:50000 age:30
+ height:0 sin:14 employee number:14 salary:50000 age:30
+ height:3 sin:15 employee number:15 salary:50000 age:30
+ height:0 sin:16 employee number:16 salary:50000 age:30
+ height:2 sin:17 employee number:17 salary:50000 age:30
+ height:1 sin:18 employee number:18 salary:50000 age:30
+ height:0 sin:19 employee number:19 salary:50000 age:30
+Deletion
+INORDER (NUM=20, height=4): root node has sin:7
+
+ height:0 sin:0 employee number:0 salary:50000 age:30
+ height:1 sin:1 employee number:1 salary:50000 age:30
+ height:0 sin:2 employee number:2 salary:50000 age:30
+ height:2 sin:3 employee number:3 salary:50000 age:30
+ height:1 sin:5 employee number:5 salary:50000 age:30
+ height:0 sin:6 employee number:6 salary:50000 age:30
+ height:4 sin:7 employee number:7 salary:50000 age:30
+ height:0 sin:8 employee number:8 salary:50000 age:30
+ height:1 sin:10 employee number:9 salary:50000 age:30
+ height:2 sin:11 employee number:11 salary:50000 age:30
+ height:0 sin:12 employee number:12 salary:50000 age:30
+ height:1 sin:14 employee number:13 salary:50000 age:30
+ height:3 sin:15 employee number:15 salary:50000 age:30
+ height:0 sin:16 employee number:16 salary:50000 age:30
+ height:1 sin:17 employee number:17 salary:50000 age:30
+ height:0 sin:18 employee number:18 salary:50000 age:30
