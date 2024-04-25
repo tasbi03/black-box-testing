@@ -50,14 +50,22 @@ Not content with just Windows, we put on our penguin hats and repeated key tests
 3. Run and observe: `./performance_tests`.
 4. Don't forget to compare with our results!
 
+## Detailed Report
+For more in-depth analysis, you can view the [Detailed Performance Testing Report](Testreport.pdf).
+
 ## Questions or Feedback? 💬
 
 Got a question about our methods? Or perhaps you have an idea to make our tests even better? [Let us know!](ttasbi@mysenec.ca)
 
-## Credits 👏
+## 🌟 Credits
 
-- **Tasbi**: The vigilant overseer of AVL Trees and the benchmarking guru.
-- **Madhur**: The std::map strategist and Linux test conductor.
+Thank you to everyone who contributed to this project. Your hard work and dedication are greatly appreciated!
+
+- **👤 Tasbi**
+- **👤 Madhur**
+- **👤 Mohammad Aeraf Khan**
+
+Your collective efforts made this project successful!
 
 ## Conclusion 🏁
 
