@@ -51,11 +51,11 @@ Not content with just Windows, we put on our penguin hats and repeated key tests
 4. Don't forget to compare with our results!
 
 ## Detailed Report
-For more in-depth analysis, you can view the [Detailed Performance Testing Report](Testreport.pdf).
+For more in-depth analysis, you can view the [Detailed Performance Testing Report](TestReport.pdf).
 
 ## Questions or Feedback? 💬
 
-Got a question about our methods? Or perhaps you have an idea to make our tests even better? [Let us know!](ttasbi@mysenec.ca)
+Got a question about our methods? Or perhaps you have an idea to make our tests even better? [Let us know!](ttasbi@myseneca.ca)
 
 ## 🌟 Credits
 
